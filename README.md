@@ -34,11 +34,11 @@ assets/img/              头像和研究配图
 7. `_news/`：新闻
 8. `assets/img/prof_pic.jpg`：头像
 
-仓库名是 `lab-website` 时：
+仓库名是 `vigilant-happiness` 时：
 
 ```yaml
-url: https://你的用户名.github.io
-baseurl: /lab-website
+url: https://3ren3people.github.io
+baseurl: /vigilant-happiness
 ```
 
 仓库名是 `你的用户名.github.io` 时，把 `baseurl` 留空。
@@ -51,7 +51,7 @@ Docker Desktop 启动后，在本目录执行：
 docker compose up --build --pull never
 ```
 
-浏览器打开：http://localhost:8080/lab-website/
+浏览器打开：http://localhost:8080/vigilant-happiness/
 
 改文件后如果页面没刷新，执行 `docker compose restart`。
 
