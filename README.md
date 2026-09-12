@@ -57,4 +57,6 @@ docker compose up --build --pull never
 
 ## 发布
 
-把仓库推到 GitHub，在 **Settings → Pages** 里把构建来源设为 **GitHub Actions**。
+仓库 **Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**（不要选 Deploy from a branch）。
+
+网站地址：https://3ren3people.github.io/vigilant-happiness/
