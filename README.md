@@ -41,7 +41,7 @@ url: https://3ren3people.github.io
 baseurl: /vigilant-happiness
 ```
 
-仓库名是 `你的用户名.github.io` 时，把 `baseurl` 留空。
+本地预览地址：http://localhost:8080/vigilant-happiness/
 
 ## 本地预览
 
